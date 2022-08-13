@@ -1,2 +1,2 @@
 # project_lotto
-Welcome !
+Welcome to our lottery script !
